@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-project-index-tsx",
     "path": "/project/",
-    "result": {"pageContext":{}},
+    "result": {"data":{"allProjectFolderYaml":{"nodes":[{"caption":"Water Crisis","urlPath":"project/water-crisis","thumbnail":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/eab47bb1194beac90e05fb95ab7d0e2a/47930/9.jpg","srcSet":"/static/eab47bb1194beac90e05fb95ab7d0e2a/e07e1/9.jpg 100w,\n/static/eab47bb1194beac90e05fb95ab7d0e2a/dd515/9.jpg 200w,\n/static/eab47bb1194beac90e05fb95ab7d0e2a/47930/9.jpg 400w,\n/static/eab47bb1194beac90e05fb95ab7d0e2a/baaed/9.jpg 800w","sizes":"(min-width: 400px) 400px, 100vw"},"sources":[{"srcSet":"/static/eab47bb1194beac90e05fb95ab7d0e2a/d8057/9.webp 100w,\n/static/eab47bb1194beac90e05fb95ab7d0e2a/2e34e/9.webp 200w,\n/static/eab47bb1194beac90e05fb95ab7d0e2a/416c3/9.webp 400w,\n/static/eab47bb1194beac90e05fb95ab7d0e2a/c1587/9.webp 800w","type":"image/webp","sizes":"(min-width: 400px) 400px, 100vw"}]},"width":400,"height":400}}}}]}},"pageContext":{}},
     "staticQueryHashes": []}
